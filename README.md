@@ -1,4 +1,5 @@
 # linux-install-scipts
-Scripts for software, that i personally use in Linux
+Scripts for software, that I personally use in Linux
 It's now pretty empty but the scripts will grow over time
-On 27.06.2021 pretty unstable because i didn't check if the spelling is right
+07.07.2021 pacman version is stable and I used/wrote when I installed manjaro (I installed it twice because on time I accidentally broke it, whuuuups)
+And there is now a new Folder called Commands in which I store my own programs (C++/Shell Scipt) that I use.
